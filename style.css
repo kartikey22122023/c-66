@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    padding-top: 800px ;
+    margin:0 ;
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#apps{
+    background-color: blueviolet;
+}
+#games{
+    background-color: blue;
+}
